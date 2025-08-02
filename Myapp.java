@@ -3,6 +3,6 @@ public class Myapp {
         int a = 10, b = 20;
         System.out.println("Sum is: " + (a + b));
         System.out.println("Difference is: " + (a - b));
+        System.out.println("Product is: " + (a * b));
     }
 }
-
