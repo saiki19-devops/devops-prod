@@ -5,5 +5,6 @@ public class Myapp {
         System.out.println("Difference is: " + (a - b));
         System.out.println("Product is: " + (a * b));
         System.out.println("Quotient is: " + (b / a));
+        System.out.println("The sum of a and b is: " + sum);
     }
 }
